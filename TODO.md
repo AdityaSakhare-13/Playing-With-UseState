@@ -1,4 +1,0 @@
-- [ ] Add import for Colorbuttons in Home.jsx
-- [ ] Fix prop name from setBgColor to setColor in Colorbuttons usage
-- [ ] Fix className typo in color-picker div
-- [ ] Test the app by running the development server
