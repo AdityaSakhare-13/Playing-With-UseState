@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-3. Open for netlify and navigate to ''
+3. Open for netlify and navigate to 'https://playingwithusestate.netlify.app/'
 
 ## Project Structure
 
