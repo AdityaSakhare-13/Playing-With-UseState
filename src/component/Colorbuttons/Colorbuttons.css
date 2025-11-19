@@ -1,0 +1,17 @@
+.color-button{
+    font-size: 14px;
+    background-color: #a6a6a6ff;
+    padding : 5px 10px;
+    margin:5px;
+    border-radius : 5px;
+    cursor :pointer ;
+    height:15px;
+    width:15px;
+
+}
+
+.color-button:hover{
+    background-color: #f0f0f0;
+    border : 1px solid blue;
+    
+}
